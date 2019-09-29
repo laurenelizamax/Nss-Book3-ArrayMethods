@@ -1,5 +1,5 @@
-#NSS Book 3 Chapter 5
-##Array Methods:
+NSS Book 3 Chapter 5
+Array Methods:
 forEach()
 filter()
 map()
